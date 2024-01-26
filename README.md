@@ -1,1 +1,1 @@
-Ejercicios de practicas. puedes correr el test para verificar si pasate el ejercicio instalando en la raiz de los archivos el npm install, luego para correr el test en el terminal pones npm test 03,npm tes 04... y asi hasta la carpeta ultima que es la 08.
+Ejercicios de practicas js.
